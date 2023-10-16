@@ -1,0 +1,13 @@
+.nav{
+	background-color: black;
+	height :30px;
+	color : #c0c0c0;
+}
+.header{
+	text-align : center;
+	width: 300px;
+	display : inline-block;
+  	border: 2px solid black;
+  	margin-left :500px;
+  	
+}
